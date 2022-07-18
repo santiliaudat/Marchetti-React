@@ -1,0 +1,63 @@
+.service-card-service-card {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+}
+.service-card-image {
+  width: 204px;
+  height: 204px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
+  background-position: center;
+}
+.service-card-image1 {
+  object-fit: cover;
+}
+.service-card-text {
+  color: rgb(43, 70, 85);
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.service-card-text1 {
+  color: rgb(43, 70, 85);
+  font-size: 16px;
+  margin-top: var(--dl-space-space-fourunits);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.service-card-link {
+  color: var(--dl-color-gray-white);
+  align-self: center;
+  margin-top: var(--dl-space-space-doubleunit);
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: var(--dl-radius-radius-radius24);
+  margin-bottom: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-danger-700);
+}
+@media(max-width: 767px) {
+  .service-card-service-card {
+    width: 65%;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
+}
+@media(max-width: 479px) {
+  .service-card-service-card {
+    width: 100%;
+  }
+}

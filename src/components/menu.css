@@ -1,0 +1,100 @@
+.menu-navbar {
+  width: 100%;
+  display: flex;
+  max-width: 100%;
+  min-width: 100%;
+  align-self: flex-start;
+  align-items: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  justify-content: space-between;
+  background-color: var(--dl-color-gray-black);
+}
+.menu-left-side {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.menu-image {
+  width: 153px;
+  height: 46px;
+  align-self: center;
+  object-fit: cover;
+  margin-right: var(--dl-space-space-doubleunit);
+}
+.menu-burger-menu {
+  display: none;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.menu-icon {
+  width: 36px;
+  height: 36px;
+}
+.menu-links-container {
+  width: 751px;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 150px;
+  margin-right: var(--dl-space-space-tenunits);
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.menu-link {
+  color: #ffffff;
+  text-align: right;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.menu-link1 {
+  color: #ffffff;
+  text-align: right;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.menu-link2 {
+  color: #ffffff;
+  text-align: right;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.menu-link3 {
+  color: #ffffff;
+  text-align: right;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.menu-link4 {
+  color: #ffffff;
+  text-align: right;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
+.menu-link5 {
+  color: #ffffff;
+  text-align: right;
+  text-decoration: none;
+}
+.menu-text {
+  text-decoration: none;
+}
+
+
+@media(max-width: 767px) {
+  .menu-burger-menu {
+    display: flex;
+    padding: var(--dl-space-space-halfunit);
+    border-radius: var(--dl-radius-radius-radius4);
+    background-color: var(--dl-color-gray-black);
+  }
+  .menu-icon {
+    fill: var(--dl-color-gray-white);
+  }
+  .menu-links-container {
+    display: none;
+  }
+}
