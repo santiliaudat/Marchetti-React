@@ -174,7 +174,6 @@ const Consultas = (props) => {
                   </a>
                 </div>
                 <div className="consultas-testimonial4">
-                  <div className="consultas-container06"></div>
                   <span className="consultas-text29">
                     <span>
                       Carolina
@@ -193,6 +192,7 @@ const Consultas = (props) => {
                     <span className="consultas-text36"></span>
                     <span className="consultas-text37">M.P 4676</span>
                   </span>
+                  <div className="consultas-container06"></div>
                   <span className="consultas-text38">
                     Soy nutri y antopometrista ISAK I. Amo el deporte,
                     especialmente el básquet. Me especialice en nutrición

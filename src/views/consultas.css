@@ -242,15 +242,6 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.consultas-container06 {
-  flex: 0 0 auto;
-  width: auto;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: auto;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-}
 .consultas-text29 {
   margin: var(--dl-space-space-halfunit);
   font-size: 1.5rem;
@@ -278,6 +269,15 @@
 .consultas-text37 {
   font-weight: 600;
   text-transform: uppercase;
+}
+.consultas-container06 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: none;
+  align-items: flex-start;
+  justify-content: center;
 }
 .consultas-text38 {
   align-self: center;
