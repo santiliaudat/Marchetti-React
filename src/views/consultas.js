@@ -119,123 +119,126 @@ const Consultas = (props) => {
               <span className="consultas-text17"></span>
               <span></span>
             </h1>
-            <div className="consultas-container04">
-              <div className="consultas-testimonial-card">
+            <div className="consultas-testimonial-card"></div>
+            <div className="consultas-container04"></div>
+            <div className="consultas-container05">
+              <div className="consultas-florencia">
                 <img
                   alt="profile"
-                  src="/playground_assets/28-500w.jpg"
+                  src="/playground_assets/28-1400w.jpg"
                   loading="eager"
                   className="consultas-image2"
                 />
-                <div className="consultas-testimonial3">
-                  <div className="consultas-container05">
-                    <span className="consultas-text19">
-                      <span className="consultas-text20">
-                        Florencia
-                        <span
-                          dangerouslySetInnerHTML={{
-                            __html: ' ',
-                          }}
-                        />
-                      </span>
-                      <span className="consultas-text21">Falco</span>
-                    </span>
-                  </div>
-                  <span className="consultas-text22">
-                    <span className="consultas-text23">Lic. en Nutrición</span>
-                    <br></br>
-                    <span></span>
-                    <span className="consultas-text26"></span>
-                    <span className="consultas-text27">M.N 10751</span>
-                  </span>
-                  <span className="consultas-text28">
-                    Soy vegetariana e hice varios cursos sobre alimentación
-                    basada en plantas ¡Me encanta! Pero también, puedo
-                    acompañarte en cualquier patrón de alimentación que elijas.
-                    Además, me interesa mucho la salud gastrointestinal y puedo
-                    ayudarte a mejorarla.
+                <div className="consultas-container06"></div>
+                <span className="consultas-text19">
+                  <span className="consultas-text20">
+                    Florencia
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <a
-                    href="https://api.whatsapp.com/send?phone=5491125295667&amp;text=Hola,%20soy%20de%20la%20ComunidadMR%20y%20quiero%20un%20turno%20con%20Flor."
-                    target="_blank"
-                    rel="noreferrer noopener"
-                    className="consultas-link01"
-                  >
-                    <img
-                      alt="image"
-                      src="/playground_assets/887423_text_512x512-200h.png"
-                      className="consultas-image3"
+                  <span className="consultas-text21">Falco</span>
+                </span>
+                <span className="consultas-text22">
+                  <span className="consultas-text23">Lic. en Nutrición</span>
+                  <br></br>
+                  <span></span>
+                  <span className="consultas-text26"></span>
+                  <span className="consultas-text27">M.N 10751</span>
+                </span>
+                <span className="consultas-text28">
+                  Soy vegetariana e hice varios cursos sobre alimentación basada
+                  en plantas ¡Me encanta! Pero también, puedo acompañarte en
+                  cualquier patrón de alimentación que elijas. Además, me
+                  interesa mucho la salud gastrointestinal y puedo ayudarte a
+                  mejorarla.
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <a
+                  href="https://api.whatsapp.com/send?phone=5491125295667&amp;text=Hola,%20soy%20de%20la%20ComunidadMR%20y%20quiero%20un%20turno%20con%20Flor."
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="consultas-link01"
+                >
+                  <img
+                    alt="image"
+                    src="/playground_assets/887423_text_512x512-200h.png"
+                    className="consultas-image3"
+                  />
+                </a>
+              </div>
+              <div className="consultas-carolina">
+                <img
+                  alt="profile"
+                  src="/playground_assets/29-1400w.jpg"
+                  loading="eager"
+                  className="consultas-image4"
+                />
+                <div className="consultas-container07"></div>
+                <span className="consultas-text29">
+                  <span>
+                    Carolina
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: ' ',
+                      }}
                     />
-                  </a>
-                </div>
-                <div className="consultas-testimonial4">
-                  <div className="consultas-container06"></div>
-                  <span className="consultas-text29">
-                    <span>
-                      Carolina
-                      <span
-                        dangerouslySetInnerHTML={{
-                          __html: ' ',
-                        }}
-                      />
-                    </span>
-                    <span>Pagliari</span>
                   </span>
-                  <span className="consultas-text32">
-                    <span className="consultas-text33">Lic. en Nutrición</span>
-                    <br></br>
-                    <span></span>
-                    <span className="consultas-text36"></span>
-                    <span className="consultas-text37">M.P 4676</span>
-                  </span>
-                  <span className="consultas-text38">
+                  <span>Pagliari</span>
+                </span>
+                <span className="consultas-text32">
+                  <span className="consultas-text33">Lic. en Nutrición</span>
+                  <br></br>
+                  <span></span>
+                  <span className="consultas-text36"></span>
+                  <span className="consultas-text37">M.P 4676</span>
+                </span>
+                <span className="consultas-text38">
+                  <span>
                     Soy nutri y antopometrista ISAK I. Amo el deporte,
                     especialmente el básquet. Me especialice en nutrición
                     deportiva y en nutrición familiar e integral, formándome en
                     alimentación complementaria y BLW.
                   </span>
-                  <a
-                    href="https://api.whatsapp.com/send?phone=5491125295667&amp;text=Hola,%20soy%20de%20la%20ComunidadMR%20y%20quiero%20un%20turno%20con%20Flor."
-                    target="_blank"
-                    rel="noreferrer noopener"
-                    className="consultas-link02"
-                  >
-                    <img
-                      alt="image"
-                      src="/playground_assets/887423_text_512x512-200h.png"
-                      className="consultas-image4"
-                    />
-                  </a>
-                </div>
-                <img
-                  alt="profile"
-                  src="/playground_assets/29-500w.jpg"
-                  loading="eager"
-                  className="consultas-image5"
-                />
+                  <br></br>
+                  <span></span>
+                </span>
+                <a
+                  href="https://api.whatsapp.com/send?phone=5491125295667&amp;text=Hola,%20soy%20de%20la%20ComunidadMR%20y%20quiero%20un%20turno%20con%20Flor."
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="consultas-link02"
+                >
+                  <img
+                    alt="image"
+                    src="/playground_assets/887423_text_512x512-200h.png"
+                    className="consultas-image5"
+                  />
+                </a>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div className="consultas-steps">
-        <h1 className="consultas-text39">
+        <h1 className="consultas-text42">
           <span>¿Cómo empezar?</span>
         </h1>
-        <span className="consultas-text41">
+        <span className="consultas-text44">
           <span>Viví la experiencia personalizada a la #MarchettiRules®</span>
           <span></span>
         </span>
-        <div className="consultas-container07">
+        <div className="consultas-container08">
           <div className="consultas-step">
-            <div className="consultas-container08">
+            <div className="consultas-container09">
               <div className="consultas-line"></div>
-              <div className="consultas-container09">
+              <div className="consultas-container10">
                 <svg viewBox="0 0 1024 1024" className="consultas-icon04">
                   <path d="M960 608l-288 288-96-96-64 64 160 160 352-352z"></path>
                   <path d="M448 768h320v-115.128c-67.22-39.2-156.308-66.11-256-74.26v-52.78c70.498-39.728 128-138.772 128-237.832 0-159.058 0-288-192-288s-192 128.942-192 288c0 99.060 57.502 198.104 128 237.832v52.78c-217.102 17.748-384 124.42-384 253.388h448v-64z"></path>
@@ -243,11 +246,11 @@ const Consultas = (props) => {
               </div>
               <div className="consultas-line1"></div>
             </div>
-            <div className="consultas-container10">
-              <h1 className="consultas-text44">
+            <div className="consultas-container11">
+              <h1 className="consultas-text47">
                 <span>Protagonista</span>
               </h1>
-              <span className="consultas-text46">
+              <span className="consultas-text49">
                 <span>Decidis cambiar tu actual estio de vida</span>
                 <br></br>
                 <span></span>
@@ -255,18 +258,18 @@ const Consultas = (props) => {
             </div>
           </div>
           <div className="consultas-step1">
-            <div className="consultas-container11">
+            <div className="consultas-container12">
               <div className="consultas-line2"></div>
-              <div className="consultas-container12">
+              <div className="consultas-container13">
                 <svg viewBox="0 0 1024 1024" className="consultas-icon07">
                   <path d="M768 768v-42q0-58-88-95t-168-37-168 37-88 95v42h512zM512 256q-52 0-90 38t-38 90 38 90 90 38 90-38 38-90-38-90-90-38zM810 128q34 0 60 26t26 60v596q0 34-26 60t-60 26h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h42v-86h86v86h340v-86h86v86h42z"></path>
                 </svg>
               </div>
               <div className="consultas-line3"></div>
             </div>
-            <div className="consultas-container13">
-              <h1 className="consultas-text49">Online o Presencial</h1>
-              <span className="consultas-text50">
+            <div className="consultas-container14">
+              <h1 className="consultas-text52">Online o Presencial</h1>
+              <span className="consultas-text53">
                 <span>
                   Elegis la modaliidad que mejor se adapte a tu preferencia y
                   profesional
@@ -275,9 +278,9 @@ const Consultas = (props) => {
             </div>
           </div>
           <div className="consultas-step2">
-            <div className="consultas-container14">
+            <div className="consultas-container15">
               <div className="consultas-line4"></div>
-              <div className="consultas-container15">
+              <div className="consultas-container16">
                 <a
                   href="https://api.whatsapp.com/send?phone=5491125295667&amp;text=Hola,%20soy%20de%20la%20ComunidadMR%20y%20quiero%20info%20sobre%20turno"
                   target="_blank"
@@ -294,19 +297,19 @@ const Consultas = (props) => {
               </div>
               <div className="consultas-line5"></div>
             </div>
-            <div className="consultas-container16">
-              <h1 className="consultas-text52">
+            <div className="consultas-container17">
+              <h1 className="consultas-text55">
                 <span>Contacto</span>
               </h1>
-              <span className="consultas-text54">
+              <span className="consultas-text57">
                 <span>Coordinamos día y horario</span>
               </span>
             </div>
           </div>
           <div className="consultas-step3">
-            <div className="consultas-container17">
+            <div className="consultas-container18">
               <div className="consultas-line6"></div>
-              <div className="consultas-container18">
+              <div className="consultas-container19">
                 <svg
                   viewBox="0 0 950.8571428571428 1024"
                   className="consultas-icon11"
@@ -316,25 +319,25 @@ const Consultas = (props) => {
               </div>
               <div className="consultas-line7"></div>
             </div>
-            <div className="consultas-container19">
-              <h1 className="consultas-text56">
+            <div className="consultas-container20">
+              <h1 className="consultas-text59">
                 <span>Comenzás a vivir la experiencia a la #MR</span>
               </h1>
             </div>
           </div>
         </div>
       </div>
-      <div className="consultas-testimonial5">
-        <div className="consultas-container20">
-          <h1 className="consultas-text58">
-            <span className="consultas-text59">
+      <div className="consultas-testimonial3">
+        <div className="consultas-container21">
+          <h1 className="consultas-text61">
+            <span className="consultas-text62">
               ¿Preferis hacerlo en Equipo?
             </span>
             <br></br>
             <span>Sumaté a nuestros Equipos de Enfocad@s</span>
-            <span className="consultas-text62"></span>
+            <span className="consultas-text65"></span>
           </h1>
-          <div className="consultas-container21"></div>
+          <div className="consultas-container22"></div>
           <a
             href="https://api.whatsapp.com/send?phone=5491125295667&amp;text=Hola,%20soy%20de%20la%20ComunidadMR%20y%20quiero%20sumarme%20a%20los%20Equipos%20de%20Enfocad@s."
             target="_blank"
@@ -347,17 +350,17 @@ const Consultas = (props) => {
               className="consultas-image6"
             />
           </a>
-          <span className="consultas-text63">Escribinos para + Info</span>
+          <span className="consultas-text66">Escribinos para + Info</span>
         </div>
       </div>
-      <div className="consultas-container22">
+      <div className="consultas-container23">
         <footer className="consultas-footer">
           <img
             alt="logo"
             src="/playground_assets/%23mr.svg"
             className="consultas-image7"
           />
-          <span className="consultas-text64">© 2022 All Rights Reserved.</span>
+          <span className="consultas-text67">© 2022 All Rights Reserved.</span>
           <div className="consultas-icon-group">
             <a
               href="https://www.instagram.com/matias.marchetti/"
