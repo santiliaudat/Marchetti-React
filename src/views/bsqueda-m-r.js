@@ -8,9 +8,9 @@ const BsquedaMR = (props) => {
   return (
     <div className="bsqueda-m-r-container">
       <Helmet>
-        <title>Búsqueda MR - Marchetti</title>
+        <title>Bsqueda-MR - Marchetti</title>
         <meta name="description" content="Marchetti" />
-        <meta property="og:title" content="Búsqueda MR - Marchetti" />
+        <meta property="og:title" content="Bsqueda-MR - Marchetti" />
         <meta property="og:description" content="Marchetti" />
         <meta
           property="og:image"

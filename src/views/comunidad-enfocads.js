@@ -160,7 +160,7 @@ const ComunidadEnfocads = (props) => {
           </div>
           <div className="comunidad-enfocads-container17">
             <a
-              href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380847c02d739017c2dfbe60325bd"
+              href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c938084826156040182739612f10790"
               target="_blank"
               rel="noreferrer noopener"
               className="comunidad-enfocads-link"
@@ -168,7 +168,7 @@ const ComunidadEnfocads = (props) => {
               <div className="comunidad-enfocads-container18">
                 <span className="comunidad-enfocads-text18">Mensual</span>
                 <span className="comunidad-enfocads-text19">
-                  <span className="comunidad-enfocads-text20">ARS 600</span>
+                  <span className="comunidad-enfocads-text20">ARS 990</span>
                 </span>
                 <button className="comunidad-enfocads-button button">
                   Suscribite Aquí
@@ -176,28 +176,28 @@ const ComunidadEnfocads = (props) => {
               </div>
             </a>
             <a
-              href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380847c02d799017c2dfefec3253e"
+              href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848261560401827396b6580791"
               target="_blank"
               rel="noreferrer noopener"
               className="comunidad-enfocads-link01"
             >
               <div className="comunidad-enfocads-container19">
                 <span className="comunidad-enfocads-text21">Trimestral</span>
-                <span className="comunidad-enfocads-text22">ARS 1500</span>
+                <span className="comunidad-enfocads-text22">ARS 2490</span>
                 <button className="comunidad-enfocads-button1 button">
                   Suscribite Aquí
                 </button>
               </div>
             </a>
             <a
-              href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380847c02d799017c2dfe68fe253d"
+              href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c938084825e8ae001827397a0eb08f7"
               target="_blank"
               rel="noreferrer noopener"
               className="comunidad-enfocads-link02"
             >
               <div className="comunidad-enfocads-container20">
                 <span className="comunidad-enfocads-text23">Semestral</span>
-                <span className="comunidad-enfocads-text24">ARS 3000</span>
+                <span className="comunidad-enfocads-text24">ARS 4950</span>
                 <button className="comunidad-enfocads-button2 button">
                   Suscribite Aquí
                 </button>

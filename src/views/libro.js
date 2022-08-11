@@ -3,7 +3,7 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 
 import Menu from '../components/menu'
-import Botonverde from '../components/botonverde'
+import BotonVerde from '../components/boton-verde'
 import './libro.css'
 
 const Libro = (props) => {
@@ -80,7 +80,7 @@ const Libro = (props) => {
               className="libro-textinput input"
             />
           </div>
-          <Botonverde></Botonverde>
+          <BotonVerde></BotonVerde>
         </div>
       </form>
     </div>

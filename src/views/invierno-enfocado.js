@@ -3,16 +3,16 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 
 import ServiceCard from '../components/service-card'
-import Botonverde from '../components/botonverde'
+import BotonVerde from '../components/boton-verde'
 import './invierno-enfocado.css'
 
 const InviernoEnfocado = (props) => {
   return (
     <div className="invierno-enfocado-container">
       <Helmet>
-        <title>Invierno Enfocado - Marchetti</title>
+        <title>Invierno-Enfocado - Marchetti</title>
         <meta name="description" content="Marchetti" />
-        <meta property="og:title" content="Invierno Enfocado - Marchetti" />
+        <meta property="og:title" content="Invierno-Enfocado - Marchetti" />
         <meta property="og:description" content="Marchetti" />
         <meta
           property="og:image"
@@ -241,7 +241,7 @@ const InviernoEnfocado = (props) => {
             <span className="invierno-enfocado-text31">#MarchettiRules®</span>
           </span>
         </div>
-        <Botonverde></Botonverde>
+        <BotonVerde></BotonVerde>
       </div>
       <div className="invierno-enfocado-separador1"></div>
       <div className="invierno-enfocado-container13">
