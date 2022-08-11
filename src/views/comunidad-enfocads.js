@@ -167,9 +167,7 @@ const ComunidadEnfocads = (props) => {
             >
               <div className="comunidad-enfocads-container18">
                 <span className="comunidad-enfocads-text18">Mensual</span>
-                <span className="comunidad-enfocads-text19">
-                  <span className="comunidad-enfocads-text20">ARS 990</span>
-                </span>
+                <span className="comunidad-enfocads-text19">ARS 990</span>
                 <button className="comunidad-enfocads-button button">
                   Suscribite Aquí
                 </button>
@@ -182,8 +180,8 @@ const ComunidadEnfocads = (props) => {
               className="comunidad-enfocads-link01"
             >
               <div className="comunidad-enfocads-container19">
-                <span className="comunidad-enfocads-text21">Trimestral</span>
-                <span className="comunidad-enfocads-text22">ARS 2490</span>
+                <span className="comunidad-enfocads-text20">Trimestral</span>
+                <span className="comunidad-enfocads-text21">ARS 2490</span>
                 <button className="comunidad-enfocads-button1 button">
                   Suscribite Aquí
                 </button>
@@ -196,8 +194,8 @@ const ComunidadEnfocads = (props) => {
               className="comunidad-enfocads-link02"
             >
               <div className="comunidad-enfocads-container20">
-                <span className="comunidad-enfocads-text23">Semestral</span>
-                <span className="comunidad-enfocads-text24">ARS 4950</span>
+                <span className="comunidad-enfocads-text22">Semestral</span>
+                <span className="comunidad-enfocads-text23">ARS 4950</span>
                 <button className="comunidad-enfocads-button2 button">
                   Suscribite Aquí
                 </button>
@@ -209,8 +207,8 @@ const ComunidadEnfocads = (props) => {
       <div className="comunidad-enfocads-pricing1">
         <div className="comunidad-enfocads-container21">
           <div className="comunidad-enfocads-container22">
-            <h1 className="comunidad-enfocads-text25">Resto del Mundo</h1>
-            <span className="comunidad-enfocads-text26">
+            <h1 className="comunidad-enfocads-text24">Resto del Mundo</h1>
+            <span className="comunidad-enfocads-text25">
               <span>
                 <span>
                   {' '}
@@ -229,8 +227,8 @@ const ComunidadEnfocads = (props) => {
               className="comunidad-enfocads-link03"
             >
               <div className="comunidad-enfocads-container24">
-                <span className="comunidad-enfocads-text29">Mensual</span>
-                <span className="comunidad-enfocads-text30">10 USD</span>
+                <span className="comunidad-enfocads-text28">Mensual</span>
+                <span className="comunidad-enfocads-text29">10 USD</span>
                 <button className="comunidad-enfocads-button3 button">
                   Suscribite Aquí
                 </button>
@@ -243,8 +241,8 @@ const ComunidadEnfocads = (props) => {
               className="comunidad-enfocads-link04"
             >
               <div className="comunidad-enfocads-container25">
-                <span className="comunidad-enfocads-text31">Trimestral</span>
-                <span className="comunidad-enfocads-text32">25 USD</span>
+                <span className="comunidad-enfocads-text30">Trimestral</span>
+                <span className="comunidad-enfocads-text31">25 USD</span>
                 <button className="comunidad-enfocads-button4 button">
                   Suscribite Aquí
                 </button>
@@ -257,8 +255,8 @@ const ComunidadEnfocads = (props) => {
               className="comunidad-enfocads-link05"
             >
               <div className="comunidad-enfocads-container26">
-                <span className="comunidad-enfocads-text33">Semestral</span>
-                <span className="comunidad-enfocads-text34">50 USD</span>
+                <span className="comunidad-enfocads-text32">Semestral</span>
+                <span className="comunidad-enfocads-text33">50 USD</span>
                 <button className="comunidad-enfocads-button5 button">
                   Suscribite Aquí
                 </button>
@@ -268,7 +266,7 @@ const ComunidadEnfocads = (props) => {
         </div>
       </div>
       <div className="comunidad-enfocads-container27">
-        <span className="comunidad-enfocads-text35">
+        <span className="comunidad-enfocads-text34">
           <span>
             IMPORTANTE:
             <span
@@ -284,8 +282,8 @@ const ComunidadEnfocads = (props) => {
         </span>
       </div>
       <div className="comunidad-enfocads-container28">
-        <span className="comunidad-enfocads-text38">
-          <span className="comunidad-enfocads-text39">
+        <span className="comunidad-enfocads-text37">
+          <span className="comunidad-enfocads-text38">
             En cumplimiento con los reglamentos vigentes de protección de datos,
             los datos recabados durante la transacción serán respaldados por las
             pasarelas de pago y la marca, solo para verificación de compras y
@@ -304,7 +302,7 @@ const ComunidadEnfocads = (props) => {
           />
         </div>
         <div className="comunidad-enfocads-container30">
-          <span className="comunidad-enfocads-text40">
+          <span className="comunidad-enfocads-text39">
             © 2021 All Rights Reserved.
           </span>
         </div>
